@@ -1,0 +1,21 @@
+//area de un triangulo con base y altura
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+using namespace std;
+
+int main()
+{ int area, base, altura;
+cout<<"Ingrese la base:";
+cin>>base;
+cout<<"Ingrese la altura:";
+cin>>altura;
+area=(base*altura)/2;
+cout<<"El area del triangulo es:";
+cout<<area;
+
+
+getch();
+}
+
