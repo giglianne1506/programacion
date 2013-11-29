@@ -1,0 +1,28 @@
+include "stdafx.h"
+#include "conio.h"
+#include <iostream>
+
+using namespace std;
+
+
+void main()
+
+{
+         
+float k,i,I;
+  int n;
+  cout<< "introducir ingreso simple";
+  cin>>i;
+  cout<< "introducir ingreso ";
+   cin>>I;
+  cout<< "introducir numero de dias";
+   cin>>n;
+  cout<< "introducir numero capital";
+  cin>>k;
+  k=(I/(i*n);
+   cout<< k;
+                
+  getch();
+  
+
+}
