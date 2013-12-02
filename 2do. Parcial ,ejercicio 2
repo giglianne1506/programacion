@@ -19,8 +19,9 @@ int main()
          i=i+1;
    cout<<digito;
   }
-  cout<<"el contador es:\n";
+  cout<<"el contador es:";
   cout<<i;
+ 
   getch();
   return 0;
 }
