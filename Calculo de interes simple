@@ -2,17 +2,19 @@
 #include <iostream>
 #include "conio.h"
 using namespace std;
+
 void main()
 
 {
 float K,i,I;
 int n;
-cout<<"ingrese K";
+cout<<"ingrese K:";
 cin>>K;
-cout<<"ingrese i";
+cout<<"ingrese i:";
 cin>>i;
 cin>>n;
 I=K*i*n/360;
+cot<<"El I es:";
 cout<<I;
 
 getch();
